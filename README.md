@@ -1,8 +1,13 @@
 # EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
+ 
  NAME: UDHAYA SANKARAN M
+ 
  REGISTER NUMBER: 212222110051
+ 
  DEPARTMENT: CSE(IOT)
+ 
  YEAR: 3RD YEAR
+ 
  ## Aim:
  To publish data to an IoT broker using the MQTT protocol.
 
